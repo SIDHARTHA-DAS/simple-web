@@ -164,6 +164,17 @@ img{
     left: 45%;
 }
 
+#arrow i{
+    font-size: 25px;
+    position: absolute;
+    bottom: 1%;
+    left: 50%;
+}
+
+#arrow i:hover{
+    cursor: pointer;
+}
+
 
 
 
